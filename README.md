@@ -16,6 +16,7 @@ My journey in programming began with the Front End Web Development certification
 * algorithms
 * machine learning
 * Tensorflow
+
 I am midway through completing the IBM Data Science Professional specialization on Coursera. I also plan to continue earning AWS certifications (next on my list are the 'Developer Associate' and 'Machine Learning Specialty' certs). 
 
 <!--
