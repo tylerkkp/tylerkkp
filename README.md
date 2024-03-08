@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Tyler
 
-I'm a software developer transitioning from the field of mechanical engineering. I also spent some time as a semi-professional poker player. My primary focus within the broad field of software development is data analysis and visualization. My portfolio/blog site can be found at [tkkp.dev](https://www.tkkp.dev).
+I'm a Data Analyst at MapLight.org, working to build modern Campaign Finance Disclosure software. Before MapLight, I worked in mechanical engineering. I also spent some time as a semi-professional poker player. My portfolio/blog site can be found at [tkkp.dev](https://www.tkkp.dev).
 
 I believe in the practice of using the right tool for the job. It is often better to spend the time learning the right technology than struggling to use the wrong tool. So far, my ever-growing toolkit includes:
 * Python
@@ -9,9 +9,12 @@ I believe in the practice of using the right tool for the job. It is often bette
 * CSS
 * Javascript
 
-My journey in programming began with the Front End Web Development certification on [freeCodeCamp](https://www.freecodecamp.org/certification/tylerkkp/legacy-front-end). More recently, I earned my AWS Cloud Practitioner [certification](https://www.youracclaim.com/badges/f142cf26-043e-47b4-833e-2008968aa34f?source=linked_in_profile), and also completed the Python Developer career track on [DataCamp](https://www.datacamp.com/statement-of-accomplishment/track/f2bb1095c87e4d9997100dbe202b061078665111). 
-
-Most recently, I completed the IBM Data Science [specialization](https://coursera.org/share/05bc6192c8be91d100f78dacfadef488) on Coursera. 
+My certifications include:
+* The Front End Web Development certification on [freeCodeCamp](https://www.freecodecamp.org/certification/tylerkkp/legacy-front-end)
+* AWS Cloud Practitioner [link](https://www.credly.com/badges/3337497e-a055-4241-9299-b1d7592e6ab5/public_url)
+* AWS Certified Developer - Associate [link](https://www.credly.com/badges/45c90ed9-79a0-4ceb-b989-e3b3dd8e1eed/public_url)
+* Python Developer career track on [DataCamp](https://www.datacamp.com/statement-of-accomplishment/track/f2bb1095c87e4d9997100dbe202b061078665111). 
+* IBM Data Science [specialization](https://coursera.org/share/05bc6192c8be91d100f78dacfadef488) on Coursera. 
 
 #### Things I am learning:
 * Rust
@@ -19,7 +22,7 @@ Most recently, I completed the IBM Data Science [specialization](https://courser
 * machine learning
 * Tensorflow
 
-Looking forward, I am studying for more AWS certifications (next on my list are the 'Developer Associate' and 'Machine Learning Specialty' certs) and working on open source contributing. 
+Looking forward, I am studying for more AWS certifications (next on my list are the 'Data Analytics Specialty' and 'Machine Learning Specialty' certs) and working on open source contributing. 
 
 <!--
 **tylerkkp/tylerkkp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
